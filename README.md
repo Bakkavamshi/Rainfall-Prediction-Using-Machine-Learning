@@ -18,11 +18,3 @@ This project follows the steps below to achieve accurate rainfall predictions:
 4. **Model Training**: The chosen model is trained on the dataset, and hyperparameters are tuned for better performance.
 5. **Model Evaluation**: The model’s performance is evaluated using accuracy, precision, recall, and F1-score metrics to ensure it’s suitable for prediction.
 6. **Prediction**: The trained model is then used to predict rainfall on unseen data.
-
-## Installation
-Follow these steps to set up the project on your local machine:
-
-1. **Clone the repository**:
-   ```bash
-  git clone https://github.com/Bakkavamshi/Rainfall-Prediction-Using-Machine-Learning.git
-
