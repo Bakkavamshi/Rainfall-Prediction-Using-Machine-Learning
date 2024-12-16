@@ -24,4 +24,5 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rainfall-prediction.git
+  git clone https://github.com/Bakkavamshi/Rainfall Prediction Using Machine Learning.git
+
